@@ -24,5 +24,7 @@ One of the best features is pairing this project with one or two Dual Encoders. 
 
 I also left many pin outs for possible future use or variations when designing the circuit board. As of version 1.0, I can say everything is working! However, like everything when prototyping, I should have chose my pins more wisely for the LEDs. It would have been nice to set a dimmer for them. Three of the LEDs display the Mode. All off is mode 1, left LED is mode 2, middle LED is mode 3, and the right LED is mode 4. They all stay on while in their respective mode. The fourth LED is a keypress confirmation. Briefly lights while the key is pressed, and turns off when released.
 
+<img src="Images/Wiring-Diagram.png" alt="Wiring Diagram" width="25%" height="25%">
+
 # Friendly Words
 This is my first public project. I'm fairly new to creating content on GitHub. I have been programming for awhile. The project case I created using Fusion 360, and printed on an AnyCubic Mega Pro. The circuit board was created using EasyEDA. It was the first time I created a circuit board and had it printed via PCBWay as they do small batches for cheap at the time of writing this. Many thanks to snippets of code and hours of mistakes to get the code to where it is today from countless people I found on internet searches. NicoHood's HID-Project was the final touch required to make this project possible. Please leave me a comment if something is not right, or can be changed, or if I've done something wrong. Thanks!
