@@ -18,13 +18,13 @@
 - (2) M3 x 8mm Standoffs.
 
 ## Folder Structure
-- Arduino, contains .INO for Arduino IDE. Requires HID-Project.h Library (GitHub) and Encoder.h (Library Manager in IDE)
-- EasyEDA, contains .JSON files for EasyEDA to create PCB for the breakout board. Can be sent to board manufacturer.
-- Fusion360, contains both .F3D and .STL files. The .F3D files can be changed to your neeeds. The .STL can be sent to a 3D printed if using the same components.
-- Images. Self-explanatory.
-- KeyMap, contains a text file with the default key mapping when using the configured settings in the .INO file for Arduino. I use it as a cheat sheet.
-- RobotDyn, contains files for measurements and schematics for the keypad.
-- Schematics, contains all the diagrams, pictures, and schematics of the project.
+- **Arduino**, contains .INO for Arduino IDE. Requires HID-Project.h Library (GitHub) and Encoder.h (Library Manager in IDE)
+- **EasyEDA**, contains .JSON files for EasyEDA to create PCB for the breakout board. Can be sent to board manufacturer.
+- **Fusion360**, contains both .F3D and .STL files. The .F3D files can be changed to your neeeds. The .STL can be sent to a 3D printed if using the same components.
+- **Images**, Self-explanatory.
+- **KeyMap**, contains a text file with the default key mapping when using the configured settings in the .INO file for Arduino. I use it as a cheat sheet.
+- **RobotDyn**, contains files for measurements and schematics for the keypad.
+- **Schematics**, contains all the diagrams, pictures, and schematics of the project.
 
 # Description
 I wanted to turn a keypad into a functional macro keyboard. In order to maximize the use of the keyboard, I created a MODE button that allows up to 4 button layouts that can be toggled between. Using the HID-Project Library, the first mode focuses on common shortcuts, web broswers, and operating systems. MODES 2-4 focus on the use of F13-F24 keys not normally found on standard keyboards allowing unique bindings for different applications.
