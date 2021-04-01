@@ -7,7 +7,7 @@
 
 ## Optional (but recommended):
 - Keypad Breakout for Pro Micro ver1.0 by Robert. [RobotDyn Keypad](https://www.banggood.com/5V-Button-Keypad-4x4-Module-Assembled-Keyboard-p-1645007.html)
-- One or Two Dual Encoders with presoldered resistors.[Amazon - Cylewet 5Pcs KY-040 Rotary Encoder Module with 15×16.5 mm with Knob Cap for Arduino](https://www.amazon.ca/dp/B07DFFSZ73/ref=cm_sw_em_r_mt_dp_GTFJT82QA5BB0PV9Z99V?_encoding=UTF8&psc=1)
+- One or Two Dual Encoders with presoldered resistors. [Amazon - Cylewet 5Pcs KY-040 Rotary Encoder Module with 15×16.5 mm with Knob Cap for Arduino](https://www.amazon.ca/dp/B07DFFSZ73/ref=cm_sw_em_r_mt_dp_GTFJT82QA5BB0PV9Z99V?_encoding=UTF8&psc=1)
 - (4) 3mm LEDS. (I used white generic. Will determine resistors req'd).
 - (4) 5.6ohm resistors. (or appropriate  for your LEDS).
 - Male to Female Leads.
