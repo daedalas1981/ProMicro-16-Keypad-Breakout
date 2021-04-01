@@ -3,7 +3,7 @@
 ## Required components:
 - Arduino Pro Micro 32U Microcontroller.
 - NicoHood's HID-Project Library for Arduino.
-- RobotDyn 16 button 3-wire keypad. [RobotDyn Keypad](https://www.banggood.com/5V-Button-Keypad-4x4-Module-Assembled-Keyboard-p-1645007.html)
+- RobotDyn 16 button 3-wire keypad. [RobotDyn 4x4 Keypad](https://www.banggood.com/5V-Button-Keypad-4x4-Module-Assembled-Keyboard-p-1645007.html)
 - Keypad Breakout for Pro Micro ver1.0 by Robert.
 
 ## Optional (but recommended):
