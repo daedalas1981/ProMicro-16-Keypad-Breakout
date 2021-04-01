@@ -13,6 +13,8 @@
 - Male to Female Leads.
 - 3D Printed Case. (or maybe a suitable wood case?).
 - Printer / Printed labels for the keypad.
+- (6) M3 Screws and Nuts. [Screws / Nuts / Standoffs](https://www.amazon.ca/gp/product/B06Y591NKK/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1)
+- (2) M3 x 8mm Standoffs.
 
 # Description
 I wanted to turn a keypad into a functional macro keyboard. In order to maximize the use of the keyboard, I created a MODE button that allows up to 4 button layouts that can be toggled between. Using the HID-Project Library, the first mode focuses on common shortcuts, web broswers, and operating systems. MODES 2-4 focus on the use of F13-F24 keys not normally found on standard keyboards allowing unique bindings for different applications.
