@@ -29,7 +29,7 @@
 # Description
 I wanted to turn a keypad into a functional macro keyboard. In order to maximize the use of the keyboard, I created a MODE button that allows up to 4 button layouts that can be toggled between. Using the HID-Project Library, the first mode focuses on common shortcuts, web broswers, and operating systems. MODES 2-4 focus on the use of F13-F24 keys not normally found on standard keyboards allowing unique bindings for different applications.
 
-One of the best features is pairing this project with one or two encoders. I have programmed them by default as being one dedicated to Volume Up and Down with the press to Mute. The second encoder has been set to be a Zoom In and Out for web browsing with the press to Reset to 100%.
+One of the best features is pairing this project with one or two encoders. I have programmed them by default as being one dedicated to Volume Up and Down with the press to Mute. The second encoder has been set to be a Zoom In and Out with the press to Reset to 100%. Perfect for Photoshop, or even Web browsing,
 
 **Noteworthy code for the encoders:** 4x4-KeyPad-Multi.ino
 ```
