@@ -31,6 +31,15 @@ I wanted to turn a keypad into a functional macro keyboard. In order to maximize
 
 One of the best features is pairing this project with one or two Dual Encoders. I have programmed them by default as being one dedicated to Volume Up and Down with the press to Mute. The second encoder has been set to be a Zoom In and Out for web browsing with the press to Reset to 100%.
 
+**Noteworthy code for the encoders:** 4x4-KeyPad-Multi.ino
+```
+// ENCODER SETUP
+bool encoderOneEnable = true; // DEFAULT ENCODER on R_ENC1
+bool encoderTwoEnable = true; // SECONDARY ENCODER on R_ENC2
+```
+*These settings will enable or disable the encoders.*
+
+
 I also left many pin outs for possible future use or variations when designing the circuit board. As of version 1.0, I can say everything is working! However, like everything when prototyping, I should have chose my pins more wisely for the LEDs. It would have been nice to set a dimmer for them. Three of the LEDs display the Mode. All off is mode 1, left LED is mode 2, middle LED is mode 3, and the right LED is mode 4. They all stay on while in their respective mode. The fourth LED is a keypress confirmation. Briefly lights while the key is pressed, and turns off when released.
 
 <img src="Images/Wiring-Diagram.png" alt="Wiring Diagram" width="55%" height="55%">
