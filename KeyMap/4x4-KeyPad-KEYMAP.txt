@@ -1,0 +1,65 @@
+*******************************
+*******-= Mode 0 =-************
+*******************************
+			[ENC1 = VOLUME UP/DOWN & MUTE BTN]	[ENC2 = Zoom In/Out & Zoom Reset]
+
+[HOME]		[BACK]		[FORWARD]	[REFRESH]	<- BROWSER MACROS
+
+[CALCULATOR]	[EMAIL]		[FILE EXPLORER]	[BOOKMARKS]	<- SYSTEM COMMANDS
+
+[PREVIOUS]	[NEXT]		[PLAY/PAUSE]	[STOP]		<- AUDIO / VIDEO MACROS
+
+[MODE SWITCH]	[TAB SWITCH]	[COPY]		[PASTE]		<- COMMON MACROS	
+
+
+
+*******************************
+*******-= Mode 1 =-************
+*******************************
+			[ENC1 = VOLUME UP/DOWN & MUTE BTN]	[ENC2 = Zoom In/Out & Zoom Reset]
+
+[LCTRL F13]	[LCTRL F14]	[LCTRL F15]	[LCTRL F16]	<- UNIQUE F MACROS
+
+[LCTRL F17]	[LCTRL F18]	[LCTRL F19]	[LCTRL F20]	<- UNIQUE F MACROS
+
+[LCTRL F21]	[LCTRL F22]	[LCTRL F23]	[LCTRL F24]	<- UNIQUE F MACROS
+
+[MODE SWITCH]	[TAB SWITCH]	[COPY]		[PASTE]		<- COMMON MACROS
+
+
+
+*******************************
+*******-= Mode 2 =-************
+*******************************
+			[ENC1 = VOLUME UP/DOWN & MUTE BTN]	[ENC2 = Zoom In/Out & Zoom Reset]
+
+[F13]		[F14]		[F15]		[F16]		<- UNCOMMON F KEYS
+
+[F17]		[F18]		[F19]		[F20]		<- UNCOMMON F KEYS
+
+[F21]		[F22]		[F23]		[F24]		<- UNCOMMON F KEYS
+
+[MODE SWITCH]	[TAB SWITCH]	[COPY]		[PASTE]		<- COMMON MACROS
+
+
+
+*******************************
+*******-= Mode 3 =-************
+*******************************
+			[ENC1 = VOLUME UP/DOWN & MUTE BTN]	[ENC2 = Zoom In/Out & Zoom Reset]
+
+[F1]		[F2]		[F3]		[F4]		<- COMMON F KEYS
+
+[F5]		[F6]		[F7]		[F8]		<- COMMON F KEYS
+
+[F9]		[F10]		[F11]		[F24]		<- COMMON F KEYS
+
+[MODE SWITCH]	[SAVE]		[CLOSE]		[QUIT]		<- COMMON QUICK SHORTCUTS
+
+
+*********************************************************************************************
+**************************                             **************************************
+**************************-= Created by Robert Cole =- **************************************
+**************************                             **************************************
+*********************************************************************************************
+									          Version 1.0
