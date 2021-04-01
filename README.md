@@ -2,7 +2,7 @@
 # KeyPad Breakout for Pro Micro and RobotDyn Keypad
 ## Required components:
 - Arduino Pro Micro 32U Microcontroller.
-- NicoHood's HID-Project Library for Arduino.
+- NicoHood's HID-Project Library for Arduino. [HID-Project](https://github.com/NicoHood/HID)
 - RobotDyn 16 button 3-wire keypad. [RobotDyn 4x4 Keypad](https://www.banggood.com/5V-Button-Keypad-4x4-Module-Assembled-Keyboard-p-1645007.html)
 - Keypad Breakout for Pro Micro ver1.0 by Robert.
 <img src="Images/KeyPad-Breakout-ver1.0.png" alt="KeyPad Breakout" width="25%" height="25%">
