@@ -1,4 +1,4 @@
-Single Encoder<img src="Images/Encorder-Single-Version.jpg" alt="Single Encoder" width="25%" height="25%">   Dual Encoder<img src="Images/Encoder-Dual0-Version.jpg" alt="Dual Encoder" width="25%" height="25%">
+**Single Encoder** <img src="Images/Encorder-Single-Version.jpg" alt="Single Encoder" width="25%" height="25%"> or **Dual Encoder** <img src="Images/Encoder-Dual0-Version.jpg" alt="Dual Encoder" width="25%" height="25%">
 # KeyPad Breakout for Pro Micro and RobotDyn Keypad
 ## Required components:
 - Arduino Pro Micro 32U Microcontroller.
