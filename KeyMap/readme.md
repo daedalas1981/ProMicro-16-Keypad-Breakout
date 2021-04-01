@@ -3,7 +3,7 @@
 There are more key values than the ones listed here. Check Arduino's Keypress Library (keyboard.h) and NicoHood's HID-Project (HID-Project.h) for a list of key names.
 
 # Keypress Values
-KEY_LEFT_CTRL
+- KEY_LEFT_CTRL
 KEY_LEFT_SHIFT
 KEY_LEFT_ALT
 KEY_LEFT_GUI
