@@ -1,0 +1,141 @@
+{
+  "uuid": "c1b3e829bdf341856cf9dc56c7b592fa",
+  "path": "Offline/4x4 Keypad",
+  "name": "4x4 Keypad",
+  "content": "Pro Micro to RobotDYN 4x4 Keypad plus LEDS",
+  "created_at": "2021-02-05 04:19:25",
+  "updated_at": "2021-02-05 22:57:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f2e7913401deb4f1f4fdfab28fb9c440",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bc0f4345bcee4d38887105e95911a720": 1,
+        "6bbe68730bb8456a94ef6edec8b56494": 4,
+        "a4fe717ca3034468844f06ea737fb719": 4,
+        "42371bea9b7f47178c99a57fef0c43df": 2,
+        "a81050cabdbf479f93b95a866b5772fd": 2,
+        "e3cf65d19cc448759a33e196792997f2": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "3MM LED",
+          4,
+          "LED-3MM",
+          "LED1,KEYLED,LED3,LED2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KENTO",
+            "BOM_Manufacturer Part": "3ARB9HCB",
+            "BOM_Supplier Part": "C42016",
+            "puuid": "192772e072a64753877247a673fe06f5",
+            "uuid": "6bbe68730bb8456a94ef6edec8b56494"
+          }
+        ],
+        [
+          "M09",
+          2,
+          "1X09_LONGPADS",
+          "BREAKOUT,BREAKOUT1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "537f8a17ee1a494e8cd01bb91bd6c580",
+            "uuid": "42371bea9b7f47178c99a57fef0c43df"
+          }
+        ],
+        [
+          "4.7OHMS RESISTOR",
+          4,
+          "RTH025W",
+          "R2,R3,R1,R4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "cb8201f67805495e80041846ebc6ff33",
+            "uuid": "a4fe717ca3034468844f06ea737fb719"
+          }
+        ],
+        [
+          "PINHD-1X3",
+          2,
+          "1X03",
+          "AUX,KEYPAD",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "f07b39d5c6fe4ddf965aba596b907053",
+            "uuid": "a81050cabdbf479f93b95a866b5772fd"
+          }
+        ],
+        [
+          "Pro Micro 3.3V",
+          1,
+          "PRO MICRO 3.3V",
+          "PRO_MICRO",
+          {
+            "BOM_Supplier Part": "12587",
+            "BOM_Supplier": "SparkFun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5364ead5dd5c4f6091b1a7523447f4ee",
+            "uuid": "bc0f4345bcee4d38887105e95911a720"
+          }
+        ],
+        [
+          "PINHD-1X5",
+          2,
+          "1X05",
+          "R_ENC1,R_ENC2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ee58aed5588a43dfbf0ea355d987ea1e",
+            "uuid": "e3cf65d19cc448759a33e196792997f2"
+          }
+        ]
+      ],
+      "updateTime": 1612582592,
+      "createTime": 1612531252,
+      "histories": [],
+      "created_at": "2021-02-05 05:20:52",
+      "updated_at": "2021-02-05 19:36:32"
+    },
+    {
+      "uuid": "a361a6a9567e4ed8e1e87709af479c0a",
+      "puuid": "c1b3e829bdf341856cf9dc56c7b592fa",
+      "title": "PCB_2021-02-05_06-32-19",
+      "filename": "PCB_2021-02-05_06-32-19.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "192772e072a64753877247a673fe06f5": 4,
+        "cb8201f67805495e80041846ebc6ff33": 4,
+        "537f8a17ee1a494e8cd01bb91bd6c580": 2,
+        "f07b39d5c6fe4ddf965aba596b907053": 2,
+        "5364ead5dd5c4f6091b1a7523447f4ee": 1,
+        "ee58aed5588a43dfbf0ea355d987ea1e": 2
+      },
+      "BOM": [],
+      "updateTime": 1612594625,
+      "createTime": 1612535539,
+      "histories": [],
+      "created_at": "2021-02-05 06:32:19",
+      "updated_at": "2021-02-05 22:57:05"
+    }
+  ],
+  "sort": [],
+  "title": "4x4 Keypad",
+  "foldername": "4x4 Keypad",
+  "schfilename": "4x4 Keypad.json",
+  "schfilemtime": 1612582592393
+}
