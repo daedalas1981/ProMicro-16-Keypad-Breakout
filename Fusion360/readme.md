@@ -10,3 +10,4 @@ I found using dual encoders to help with many of the projects I was working on. 
 - Fast Forward / Rewind / Play/Pause. (FF,Rewind,Play/Pause)
 - Cycle thru Open Windows / Press to Open.
 - Cycle thru Browser Tabs.
+- Use the 2nd Encoder Press for Mode Switching allowing an addtional key (Key 13) for assignment.
