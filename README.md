@@ -1,3 +1,4 @@
+<img src="Images/Encorder-Single-Version.jpg" alt="Single Encoder" width="25%" height="25%">    <img src="Images/Encoder-Dual0-Version.jpg" alt="Dual Encoder" width="25%" height="25%">
 # ProMicro-16-Keypad-Breakout
 ## Required components:
 - Arduino Pro Micro 32U Microcontroller.
