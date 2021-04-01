@@ -1,1 +1,1 @@
-
+Using Photoshop you can change or create your own printable Icons. The Squares are 11.8mm x 11.8mm. I created them at 12mm x 12mm and cut the black line so that it was not visible and fit perfectly in the clear key caps.
