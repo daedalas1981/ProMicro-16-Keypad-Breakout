@@ -5,6 +5,7 @@
 - NicoHood's HID-Project Library for Arduino.
 - RobotDyn 16 button 3-wire keypad. [RobotDyn 4x4 Keypad](https://www.banggood.com/5V-Button-Keypad-4x4-Module-Assembled-Keyboard-p-1645007.html)
 - Keypad Breakout for Pro Micro ver1.0 by Robert.
+<img src="Images/KeyPad-Breakout-ver1.0.png" alt="KeyPad Breakout" width="25%" height="25%">
 
 ## Optional (but recommended):
 - One or Two Dual Encoders with presoldered resistors. [Amazon - Cylewet 5Pcs KY-040 Rotary Encoder Module with 15×16.5 mm with Knob Cap for Arduino](https://www.amazon.ca/dp/B07DFFSZ73/ref=cm_sw_em_r_mt_dp_GTFJT82QA5BB0PV9Z99V?_encoding=UTF8&psc=1)
